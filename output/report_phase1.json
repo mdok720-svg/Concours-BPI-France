@@ -1,0 +1,168 @@
+{
+  "derniere_vague": "S1 2026",
+  "ca": {
+    "nom": "Chiffre d'affaires",
+    "cle": "ca",
+    "unite": "Solde d'opinion (%)",
+    "derniere_vague": "S1 2026",
+    "valeur": -14.0,
+    "delta_semestriel": -3.2206692079627004,
+    "delta_annuel": -9.64570943075616,
+    "moyenne_lt": 12.755289476951074,
+    "ecart_moyenne_lt": -26.755289476951074,
+    "rang_hors_crises": {
+      "rang_croissant": 1,
+      "sur": 50,
+      "min": -14.0,
+      "max": 49.1474423269809,
+      "mediane": 20.5913902385562,
+      "date_min": "2026-05",
+      "date_max": "2000-05"
+    }
+  },
+  "eff": {
+    "nom": "Effectifs",
+    "cle": "eff",
+    "unite": "Solde d'opinion (%)",
+    "derniere_vague": "S1 2026",
+    "valeur": -8.0,
+    "delta_semestriel": -4.01863617111393,
+    "delta_annuel": -10.12404418011895,
+    "moyenne_lt": 7.757956587667294,
+    "ecart_moyenne_lt": -15.757956587667294,
+    "rang_hors_crises": {
+      "rang_croissant": 1,
+      "sur": 50,
+      "min": -8.0,
+      "max": 30.5527638190955,
+      "mediane": 10.0,
+      "date_min": "2026-05",
+      "date_max": "2000-11"
+    }
+  },
+  "carnets_passes": {
+    "nom": "Carnets de commande passés (6 derniers mois)",
+    "cle": "carnets_passes",
+    "unite": "Solde d'opinion (%)",
+    "derniere_vague": "S1 2026",
+    "valeur": -22.0,
+    "delta_semestriel": 0.20313506549279836,
+    "delta_annuel": -1.2992261392948983,
+    "moyenne_lt": -6.889047056211801,
+    "ecart_moyenne_lt": -15.110952943788199,
+    "rang_hors_crises": {
+      "rang_croissant": 9,
+      "sur": 50,
+      "min": -28.8044801558315,
+      "max": 30.7962529274005,
+      "mediane": -7.0421465668773,
+      "date_min": "2013-05",
+      "date_max": "2000-11"
+    }
+  },
+  "carnets_futurs": {
+    "nom": "Carnets de commande futurs (6 prochains mois)",
+    "cle": "carnets_futurs",
+    "unite": "Solde d'opinion (%)",
+    "derniere_vague": "S1 2026",
+    "valeur": -15.0,
+    "delta_semestriel": -7.496765847348,
+    "delta_annuel": -13.96818572656921,
+    "moyenne_lt": 2.5278629611376293,
+    "ecart_moyenne_lt": -17.52786296113763,
+    "rang_hors_crises": {
+      "rang_croissant": 2,
+      "sur": 50,
+      "min": -18.891746551321,
+      "max": 24.4779582366589,
+      "mediane": 8.035838710385196,
+      "date_min": "2012-11",
+      "date_max": "2000-05"
+    }
+  },
+  "secteurs": {
+    "derniere_vague": "S1 2026",
+    "ensemble": -14.0,
+    "valeurs": {
+      "industrie": -17.0,
+      "commerce": -11.0,
+      "construction": -16.0,
+      "transports": -15.0,
+      "tourisme": -19.0,
+      "services": -1.0
+    },
+    "classement_decroissant": [
+      [
+        "services",
+        -1.0
+      ],
+      [
+        "commerce",
+        -11.0
+      ],
+      [
+        "transports",
+        -15.0
+      ],
+      [
+        "construction",
+        -16.0
+      ],
+      [
+        "industrie",
+        -17.0
+      ],
+      [
+        "tourisme",
+        -19.0
+      ]
+    ],
+    "delta_semestriel": {
+      "industrie": -3.974443528441901,
+      "commerce": 6.699999999999999,
+      "construction": 0.7883211678832005,
+      "transports": -6.605839416058391,
+      "tourisme": -11.34234234234235,
+      "services": 0.43072289156626
+    },
+    "delta_annuel": {
+      "industrie": -11.805194805194809,
+      "commerce": -2.6752312435765706,
+      "construction": -2.3501483679524995,
+      "transports": -11.45390070921986,
+      "tourisme": -11.64705882352941,
+      "services": -6.46677880571909
+    },
+    "secteur_le_plus_haut": [
+      "services",
+      -1.0
+    ],
+    "secteur_le_plus_bas": [
+      "tourisme",
+      -19.0
+    ]
+  },
+  "diff_appro": {
+    "derniere_vague": "S1 2026",
+    "repartition_actuelle": {
+      "Oui, limitant fortement la production / l'activité": 14.000000000000002,
+      "Oui, limitant modérément la production / l'activité": 26.0,
+      "Oui, limitant faiblement la production / l'activité": 15.0,
+      "Oui, ne limitant pas la production / l'activité": 13.0,
+      "Non, aucune": 10.0,
+      "Non concerné": 21.999999999999996
+    },
+    "somme_oui_significativement": 40.0,
+    "delta_semestriel_somme_oui": 12.69076317014106,
+    "delta_annuel_somme_oui": 15.213659547208529,
+    "rang_hors_crises_somme_oui": {
+      "rang_croissant": 6,
+      "sur": 10,
+      "min": 24.78634045279147,
+      "max": 48.620297018044944,
+      "mediane": 38.190716460271446,
+      "date_min": "2025-05",
+      "date_max": "2022-05"
+    }
+  }
+}

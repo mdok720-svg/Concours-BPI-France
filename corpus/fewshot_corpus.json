@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "generated_at": "2026-04-18T03:17:46",
+    "n_rapports": 12,
+    "sources": [
+      "70e_enquete_jan_2020",
+      "71e_enquete_jul_2020",
+      "72e_enquete_jan_2021",
+      "73e_enquete_jul_2021",
+      "74e_enquete_jan_2022",
+      "75e_enquete_jul_2022",
+      "76e_enquete_jan_2023",
+      "77e_enquete_jul_2023",
+      "78e_enquete_jan_2024",
+      "79e_enquete_jul_2024",
+      "80e_enquete_jan_2025",
+      "81e_enquete_jul_2025"
+    ]
+  },
+  "examples": {
+    "ca_eff": [
+      {
+        "source": "81e_enquete_jul_2025",
+        "text": "Les embauches seraient peu dynamiques dans le Tourisme. Les TPE-PME de ce secteur ne sont plus que 1 % de plus à anticiper une hausse de leurs effectifs qu’une baisse en 2026, une proportion en baisse de 4 points sur un an et inférieure de 4 points à sa moyenne historique. Les embauches ralentiraient dans l’Industrie, les Services et le Commerce, et seraient ainsi moins dynamiques qu’en moyenne par le passé : le solde d’opinion perd 7 points sur un an dans l’Industrie et les Services et diminue de 6 points dans le Commerce, atteignant respectivement +15, +14 et +6 (soit un niveau inférieur de 4 points, 10 points et 6 points à leur moyenne historique).",
+        "score": 7
+      },
+      {
+        "source": "76e_enquete_jan_2023",
+        "text": "L’emploi ralentirait en 2022 dans les PME d’au moins 10 salariés (solde d’opinion à +20, soit −8 points sur le semestre et −3 points sur 1 an). ● Comme habituellement, les embauches seraient bien plus allantes dans les entreprises innovantes (−1 point sur 1 an à +27) que non innovantes (−2 point à +9). L’emploi accélérerait dans les PME exportatrices (+3 points sur un an à +23) contrairement à celles centrées sur le marché domestique (−3 points sur 1 an à +11). Emploi Ralentissement des embauches 9 Les difficultés de recrutement se stabilisent à un niveau proche de celui observé avant crise sanitaire ● Les difficultés de recrutement se stabilisent sur un an : 82 % des chefs d’entreprise ayant cherché à recruter déclarent avoir rencontré des difficultés pour le faire et 44 % signalent de grandes difficultés (43 % il y a 1 an).",
+        "score": 6
+      },
+      {
+        "source": "78e_enquete_jan_2024",
+        "text": "Au sein des sous-secteurs, l’Industrie agro-alimentaire tire son épingle du jeu (−6 points sur un an, +2 points sur le semestre), avec une croissance du chiffre d’affaires pour 2023 estimée à +5 % en moyenne. Cf. focus sectoriel ● Par région, les TPE-PME d’Île-de-France et de Normandie affichent un ralentissement de leur activité plus modéré cette année que dans les autres régions (solde d’opinion en baisse de respectivement 14 et 15 points sur un an). À l’inverse, l’activité ralentit très nettement en Bourgogne-Franche-Comté (−26 points), région la moins dynamique par ailleurs avec un chiffre d’affaires estimé en baisse de 1 %, ainsi qu’en Centre-Val de Loire (−27 points).",
+        "score": 5
+      },
+      {
+        "source": "75e_enquete_jul_2022",
+        "text": "Cf. focus sectoriel Les créations d’emploi seraient plus vigoureuses chez les PME d’au moins 10 salariés et celles tournées vers l’international. ● Les dirigeants de TPE restent plutôt optimistes quant à l’évolution de leurs effectifs en 2022. Le solde d’opinion sur l’emploi s’inscrit à +8, soit nettement au-dessus de sa moyenne historique (−1). L’emploi accélérerait en 2022 dans les PME d’au moins 10 salariés (solde d’opinion à +28, soit +5 points sur le semestre et +3 points sur 1 an). ● Les embauches devraient être plus dynamiques dans les entreprises innovantes (+4 points sur 1 an à +37) que non innovantes (+1 point à +14).",
+        "score": 4
+      },
+      {
+        "source": "80e_enquete_jan_2025",
+        "text": "Les embauches ralentiraient aussi bien chez les TPE-PME exportatrices (−6 points) que non-exportatrices (−7 points), chez les innovantes (−8 points) et les non-innovantes (−5 points). Elles resteraient toutefois nettement plus dynamiques chez les exportatrices et/ou innovantes, avec près d’un quart de TPE-PME prévoyant des embauches en 2025, soit près de deux fois plus que chez les non-exportatrices ou non- innovantes. Évolution de l’activité et de l’emploi pour l’année suivante (solde d’opinion en %) Champ : Total (N = 4979) ; Source :.",
+        "score": 4
+      },
+      {
+        "source": "70e_enquete_jan_2020",
+        "text": "Les embauches perdraient un peu de leur dynamisme en 2020. ● L’indicateur prévisionnel des effectifs baisse de 3 points sur 1 an (à +19). Il reste nettement au-dessus de sa moyenne de long terme (+12). ● En cohérence avec les résultats sur l’activité, c’est principalement dans le Commerce et l’Industrie que les perspectives d’emploi se dégradent (−7 points). Les embauches seraient également un peu moins dynamiques dans le secteur des Services (−3 points).",
+        "score": 3
+      }
+    ],
+    "carnets": [
+      {
+        "source": "76e_enquete_jan_2023",
+        "text": "Le solde d’opinion sur les perspectives d’activité en 2023 chute à +6 (–25 points sur 1 an) et se retrouve en-dessous de sa moyenne de long terme (+17). ● Conjointement, le jugement sur les carnets de commande des 6 prochains mois est en forte dégradation sur un an et passe en territoire négatif : −21 points à −8, sous sa moyenne de long terme (+4). Il perd 25 points dans l’Industrie à −8, sous sa moyenne de longue période (+6). ● Pour 2023, l’indicateur d’activité est en net repli pour tous les secteurs. Le repli est le plus marqué dans le Tourisme (−48 points), après une année 2022 toutefois très dynamique.",
+        "score": 4
+      },
+      {
+        "source": "80e_enquete_jan_2025",
+        "text": "Alors qu’ils sont nombreux à faire part de contraintes de demande élevées, ils s’attendent à voir leurs carnets de commande, déjà peu remplis en 2024, se dégarnir encore un peu plus début 2025. Le solde d’opinion relatif à l’évolution des carnets de commande au cours des 6 prochains mois perd 4 points et s’inscrit, à −13, 16 points sous sa moyenne de long terme. Aucun secteur n’échappe à cette morosité : L’indicateur corrige le plus fortement dans le Tourisme, l’Industrie et les Services, qui affichaient une meilleure résilience jusqu’à présent (respectivement −15, −10 et −9 points).",
+        "score": 3
+      },
+      {
+        "source": "81e_enquete_jul_2025",
+        "text": "Le solde d’opinion relatif aux carnets de commandes sur les six prochains moins progresse de 12 points sur le semestre, même s’il reste encore inférieur à la moyenne historique (à -1 , soit -1 point sur un an, et contre +3 en moyenne depuis 2000). Côté offre, les difficultés d’approvisionnement poursuivent leur repli, contraignant significativement l’activité de 25 % des TPE-PME (−4 points sur le semestre). LA FAIBLESSE DE LA DEMANDE CONTINUE DE CONTRAINDRE L’ACTIVITÉ DES TPE-PME; LES CARNETS DE COMMANDES POURRAIENT REBONDIR AU DEUXIÈME SEMESTRE.",
+        "score": 3
+      },
+      {
+        "source": "75e_enquete_jul_2022",
+        "text": "Cette dynamique est à nuancer, ne reflétant probablement pas seulement une hausse anticipée des quantités vendues, mais également l’augmentation prévue des prix de vente, en réaction à la nette hausse des coûts de production (cf. focus infra sur les tensions d’approvisionnement). ● S’agissant des volumes de ventes anticipés en 2022, les indicateurs relatifs aux carnets de commandes plaident pour une bonne dynamique au 1er semestre suivie d’un net ralentissement au 2nd semestre. Le solde d’opinion sur l’état des carnets de commandes de ces 6 derniers mois atteint +11, soit +12 points sur un an et largement au-dessus de sa moyenne de long terme (−7). En revanche, l’indicateur relatif aux 6 prochains mois enregistre une nette dégradation sur 1 an: −16 points à +2, soit sous sa moyenne historique (+5 ). ● Les entreprises exportatrices sont, comme habituellement, plus optimistes que leurs homologues non-exportatrices.",
+        "score": 2
+      },
+      {
+        "source": "78e_enquete_jan_2024",
+        "text": "Les carnets de commande se sont en effet tassés au second semestre : l’indicateur perd 10 points sur le semestre à −11 et s’établit désormais sous sa moyenne de long terme (−7). Les difficultés d’approvisionnement se sont en revanche légèrement estompées depuis le printemps, même si elles continuent de limiter significativement l’activité de 36 % des TPE-PME (40 % en mai dernier). ● Les TPE de moins de 10 salariés voient leur activité reculer quand les PME de plus de 50 salariés affichent une croissance de leur chiffre d’affaires équivalente à celle observée en moyenne historique. Du côté des TPE, le solde d’opinion s’enfonce un peu plus en territoire négatif (−3 points sur 6 mois à −5).",
+        "score": 2
+      },
+      {
+        "source": "79e_enquete_jul_2024",
+        "text": "Le solde d’opinion sur l’évolution du chiffre d’affaires perd 10 points sur un an à +2, un niveau sensiblement inférieur à sa moyenne historique, alors que les carnets de commande restent peu garnis. La conjoncture est particulièrement difficile dans la Construction, le Commerce et les Transports, atone dans l’Industrie, alors que les services s’en sortent mieux. L’emploi résisterait mieux que l’activité cette année encore, en particulier l’emploi industriel.",
+        "score": 1
+      }
+    ],
+    "diff_appro": [
+      {
+        "source": "75e_enquete_jul_2022",
+        "text": "Graphique 4 : Part des TPE-PME rencontrant des difficultés d’approvisionnement En % Les trois quarts des TPE-PME font face à des difficultés d’approvisionnement 74 % des TPE-PME déclarent faire face à des difficultés d’approvisionnement, en hausse de 9 points par rapport à novembre 2021, confirmant que la guerre en Ukraine a exacerbé ces tensions. La moitié des TPE-PME (49 %) déclarent même qu’elles limitent modérément ou fortement leur production (contre 43 % le semestre précédent). Alors que dans l’Industrie, cette part a légèrement diminué (de 4 points), elle augmente de 12 points dans la Construction et de 5 points dans le Commerce.",
+        "score": 4
+      },
+      {
+        "source": "76e_enquete_jan_2023",
+        "text": "Le solde d’opinion atteint +44 (+12 points sur 1 an), largement au-dessus de sa moyenne de long terme (+5). ● En revanche, l’activité a ralenti dans les autres secteurs, le plus fortement dans le Commerce et la Construction, toujours pénalisés par les difficultés d’approvisionnement et l’accélération des prix, pesant sur le pouvoir d’achat des ménages et, partant, sur leur consommation et leur investissement. Le solde d’opinion relatif à l’activité s’établit à +17 pour les deux secteurs (respectivement −21 et −16 points sur un an et +8 et +9 sur le semestre), restant ainsi au-dessus de leur moyenne de long terme (+8 pour la Construction et +13 pour le Commerce). Le ralentissement est moins marqué dans l’Industrie : à +36, l’indicateur perd 10 points sur un an (+1 point sur le semestre) mais reste très largement au-dessus de sa moyenne de long terme (+16).",
+        "score": 4
+      },
+      {
+        "source": "78e_enquete_jan_2024",
+        "text": "Les difficultés d’approvisionnement se sont en revanche légèrement estompées depuis le printemps, même si elles continuent de limiter significativement l’activité de 36 % des TPE-PME (40 % en mai dernier). ● Les TPE de moins de 10 salariés voient leur activité reculer quand les PME de plus de 50 salariés affichent une croissance de leur chiffre d’affaires équivalente à celle observée en moyenne historique. Du côté des TPE, le solde d’opinion s’enfonce un peu plus en territoire négatif (−3 points sur 6 mois à −5). En moyenne, les dirigeants de TPE tablent sur une contraction de 2,2 % de leur chiffre d’affaires en 2023 (contre +0,1 % en moyenne sur 2000-2022).",
+        "score": 1
+      },
+      {
+        "source": "80e_enquete_jan_2025",
+        "text": "L’indicateur perd 10 points sur le semestre à −21, et s’éloigne sensiblement de sa moyenne de long terme (−7 sur 2000-2023). • Les difficultés d’approvisionnement contraignent significativement l’activité de 29 % des TPE-PME, une proportion stable ce semestre après une baisse continue depuis le point haut du printemps 2022 (49 % alors). La conjoncture se dégrade quelle que soit la taille de l’entreprise. Seules les grosses PME, d’au moins 100 salariés, tablent sur une croissance positive en 2024 (+0,7 %), bien que nettement plus faible que le rythme moyen observé dans l’enquête depuis 2000 (+4,5 %).",
+        "score": 1
+      },
+      {
+        "source": "81e_enquete_jul_2025",
+        "text": "Côté offre, les difficultés d’approvisionnement poursuivent leur repli, contraignant significativement l’activité de 25 % des TPE-PME (−4 points sur le semestre). LA FAIBLESSE DE LA DEMANDE CONTINUE DE CONTRAINDRE L’ACTIVITÉ DES TPE-PME; LES CARNETS DE COMMANDES POURRAIENT REBONDIR AU DEUXIÈME SEMESTRE. Évolution de l’activité et des effectifs pour l’année en cours (solde d’opinion en %) -4 2 -60 -40 -20 0 20 40 60 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 Chiffre d'affaires Moyenne 2000-2024 Effectifs Moyenne 2000-2024 Champ : Total (N = 4708) ; Source :.",
+        "score": 1
+      },
+      {
+        "source": "79e_enquete_jul_2024",
+        "text": "Les difficultés d’approvisionnement se sont en revanche encore estompées et limitent désormais significativement l’activité de 29 % des TPE-PME contre 36 % en novembre 2023. La croissance du chiffre d’affaires est attendue plus faible qu’en 2023 et qu’en moyenne au cours des dernières années, quelle que soit la taille de l’entreprise. Les TPE, habituellement moins dynamiques, connaîtraient un recul de 2,5 % de leur chiffre d’affaires.",
+        "score": 0
+      }
+    ],
+    "secteurs": [
+      {
+        "source": "70e_enquete_jan_2020",
+        "text": "Il dépasse désormais sensiblement son niveau d’avant-crise et se situe très nettement au-dessus de sa moyenne de long terme. ● Sur 1 an, les trésoreries se sont assouplies dans tous les secteurs, en particulier dans la Construction (+11 points), les Transports (+8 points) et le Tourisme (+7 points). ● À noter que la trésorerie des PME exportatrices s’est légèrement dégradée (−2 points sur un an) à l’inverse des PME non-exportatrices (+7 points). Le solde d’opinion sur la trésorerie passée est désormais à égalité dans les deux sous-populations, alors qu’il est habituellement plus élevé chez les PME exportatrices. La situation de trésorerie devrait rester souple dans les 6 prochains mois (+2 points sur 1 an, à +2), hormis dans l’Industrie (−6 points, à −1).",
+        "score": 7
+      },
+      {
+        "source": "78e_enquete_jan_2024",
+        "text": "Le solde d’opinion recule de 7 points sur le semestre, à +1. ● La rentabilité s’est fortement dégradée en 2023 dans les Transports (−29 points sur le semestre à −12) et dans le Commerce (−13 points à +3), secteur qui conserve une rentabilité satisfaisante avec le plus faible taux de répondants déclarant une rentabilité mauvaise en 2023 (19 % contre 22 % tous secteurs confondus). Elle s’est dégradée dans une moindre mesure dans les Services (−8 points), l’Industrie (−3 points) et la Construction (−1 point). Elle s’est en revanche améliorée dans le Tourisme (+8 points, à −2).",
+        "score": 7
+      },
+      {
+        "source": "81e_enquete_jul_2025",
+        "text": "Les embauches seraient peu dynamiques dans le Tourisme. Les TPE-PME de ce secteur ne sont plus que 1 % de plus à anticiper une hausse de leurs effectifs qu’une baisse en 2026, une proportion en baisse de 4 points sur un an et inférieure de 4 points à sa moyenne historique. Les embauches ralentiraient dans l’Industrie, les Services et le Commerce, et seraient ainsi moins dynamiques qu’en moyenne par le passé : le solde d’opinion perd 7 points sur un an dans l’Industrie et les Services et diminue de 6 points dans le Commerce, atteignant respectivement +15, +14 et +6 (soit un niveau inférieur de 4 points, 10 points et 6 points à leur moyenne historique).",
+        "score": 7
+      },
+      {
+        "source": "75e_enquete_jul_2022",
+        "text": "La part des TPE-PME ayant des difficultés à financer leur exploitation courante s’accroît de 3 points sur le semestre dans l’Industrie (à 11%) et de 1 point dans la Construction et le Commerce (à respectivement 11 % et 7 %). Cette part se réduit de 2 points à 12 % dans le Tourisme et de 1 point à 9 % dans les Services. ● Pour les TPE-PME rencontrant des difficultés pour financer leur exploitation courante, le niveau insuffisant d’activité et / ou les perspectives trop incertaines demeure la principale explication, citée par 51 % d’entre elles (une proportion en baisse de 10 points toutefois sur 1 an). La deuxième raison la plus citée pour expliquer ces difficultés est la nécessité d’apporter des garanties jugées trop importantes et ce, pour plus d’une TPE-PME sur trois.",
+        "score": 5
+      },
+      {
+        "source": "76e_enquete_jan_2023",
+        "text": "La part des TPE-PME ayant des difficultés à financer leur exploitation courante s’accroît le plus fortement dans le Tourisme (+8 points sur le semestre à 21 %). La part est en hausse de 2 points dans les Services et les Transports (à 12 % chacun) et de 1 point dans l’Industrie, la Construction et le Commerce (à respectivement 12 %, 11 % et 8 %). ● Pour les TPE-PME rencontrant des difficultés pour financer leur exploitation courante, le niveau insuffisant d’activité et / ou les perspectives trop incertaines demeure la principale explication, citée par 53 % d’entre elles (une proportion quasi stable: −1 point sur 1 an). Cette proportion grimpe à 66 % dans le Tourisme, mais est en baisse sur un an (−5 points).",
+        "score": 5
+      },
+      {
+        "source": "79e_enquete_jul_2024",
+        "text": "LES CHIFFRES CLÉS 4 +2 Solde d’opinion sur l’évolution de l’activité en 2024 En baisse de 10 points sur un an +16 Solde d’opinion sur l’évolution de l’activité en 2025 Stable sur 1 an, en hausse de 3 points dans l’Industrie à +25 Part des TPE-PME prévoyant des investissements en 2024 En baisse de 2 points sur un an 43% 4% Part des TPE-PME craignant de ne pas pouvoir rembourser leur PGE 29 % l’auraient remboursé d’ici la fin d’année 28% Part des TPE-PME ayant réalisé des investissements verts en 2023 En baisse de 7 points sur un an 4% Part des véhicules électriques dans le parc automobile des TPE-PME 16% des intentions d’achat à 12 mois SOMMAIRE 5 1. ACTIVITÉ ET EMPLOI 2. SITUATION FINANCIÈRE, ACCÈS AU CRÉDIT ET INVESTISSEMENT 3.",
+        "score": 4
+      }
+    ]
+  },
+  "titres": [
+    {
+      "source": "70e_enquete_jan_2020",
+      "titre": "GRÂCE À LA SOLIDITÉ"
+    },
+    {
+      "source": "71e_enquete_jul_2020",
+      "titre": "MAIS SEMBLENT ARMÉES"
+    },
+    {
+      "source": "72e_enquete_jan_2021",
+      "titre": "LES PME GARDENT LE"
+    },
+    {
+      "source": "73e_enquete_jul_2021",
+      "titre": "LES PME REMONTENT LA"
+    },
+    {
+      "source": "74e_enquete_jan_2022",
+      "titre": "CROISSANCE ANTICIPÉE DU CHIFFRE D’AFFAIRES"
+    },
+    {
+      "source": "75e_enquete_jul_2022",
+      "titre": "BAISSE D’ÉNERGIE CHEZ"
+    },
+    {
+      "source": "76e_enquete_jan_2023",
+      "titre": "LES PME EXPRIMENT DES"
+    },
+    {
+      "source": "77e_enquete_jul_2023",
+      "titre": "CE QU’IL FAUT"
+    },
+    {
+      "source": "78e_enquete_jan_2024",
+      "titre": "REFROIDISSEMENT"
+    },
+    {
+      "source": "79e_enquete_jul_2024",
+      "titre": "LE REBOND SE FAIT ATTENDRE"
+    },
+    {
+      "source": "80e_enquete_jan_2025",
+      "titre": "L'ATTENTISME PÈSE SUR LA CONJONCTURE"
+    },
+    {
+      "source": "81e_enquete_jul_2025",
+      "titre": "MÉTHODOLOGIE DÉFINITIONS"
+    }
+  ]
+}
